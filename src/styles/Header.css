@@ -1,0 +1,16 @@
+.Header {
+font-size: 13px;
+}
+
+.Header h1 {
+  margin-bottom: 8px;
+  font-size: 32px;
+}
+
+.Header__border {
+  border-bottom: 1px solid #007BFF;
+}
+
+.Header__date-span {
+  text-decoration: underline;
+}
